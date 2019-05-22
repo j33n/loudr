@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+.vscode/
+
+# Ignore this file since it contains stuff 😄
+src/index.html
